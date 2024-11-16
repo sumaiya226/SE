@@ -1,1 +1,2 @@
 this is content of new branch
+new text is added now
